@@ -1,9 +1,4 @@
-erl_crdt_test
+A Playground Repo
 =====
 
-An OTP application
-
-Build
------
-
-    $ rebar3 compile
+Toying around with `riak_dt` to try and understand how to use it.
