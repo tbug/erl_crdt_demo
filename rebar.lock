@@ -1,0 +1,4 @@
+[{<<"riak_dt">>,
+  {git,"https://github.com/basho/riak_dt.git",
+       {ref,"16ba975ca6980ddf76e3c3202411f29ba37c0329"}},
+  0}].
